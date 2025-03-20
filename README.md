@@ -32,4 +32,4 @@
 
 ## 版权
 
-[MIT](LICENSE) License © 2024-至今 [EverFu](https://github.com/everfu)
+[MIT](LICENSE) License © 2024-至今 [伍拾柒](https://github.com/everfu)
